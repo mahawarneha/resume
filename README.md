@@ -1,2 +1,2 @@
 # resume
-Resume |Html |CSS
+Resume responsive page |Html |CSS
